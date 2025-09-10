@@ -12,3 +12,4 @@ Excel / CSV – data source
 DAX – custom calculations and measures
 
 GitHub – project sharing and documentation
+![alt image](https://github.com/SharmaAman1/Motorola-Sales-Dashboard/blob/main/Motorola%20Sales%20Dashboard.png)
